@@ -1,0 +1,108 @@
+Welcome to ResCom 2017.
+We will now Analyse Results in several ways.
+We can do this, follwing 3 small steps.
+
+
+Step 1: File Conversion
+
+We first need to convert the PDF and Excel files to .txt format.
+This is required because once we have results in .txt format, we can update changes of
+Make-Up Examinations, any corrections and anything else can be made to these.
+
+
+Convert your PDF file to .txt format using this online convertor:
+http://www.zamzar.com/convert/pdf-to-txt/
+
+Convert your Excel file to .txt format using this online convertor:
+http://www.zamzar.com/convert/xls-to-txt/
+This will take only 3-4 minutes.
+
+Now in this conversion process, an Email ID is asked to send the converted files to.
+It is recommended to use this:
+
+ID: dsceconvertfiles@gmail.com
+Password: convertfiles
+
+You can convert 10 files at a time, choosing them one by one by clicking on
+'Choose File' button, but it is recommended you covert about 4-5 at a time, as otherwise
+the process is slow.
+Also note that these converted files remain in your email ID for only 24 hours.
+
+The advantage of this is that everybody can convert files to a common email ID and download
+each other's converted files.
+
+Save these files in a convenient location.
+
+Note: The Section Student List file doesnt have to be converted, you can just copy paste it onto a notepad file
+and save it, but still if you prefer converting, you can do so.
+In your Section Student List File, you need to make sure that it only contains a single class' details and
+the details must have proper table headings - "USN" , "NAME" , and any more if required.
+
+
+
+Step 2: Path Insertion (Only One Time Step)
+
+We now need to enter the path location of only the FOLDER in which the files have been downloaded.
+This is to be done only the first time you run the software. Next time you can just use "Use Paths from previous Run"
+option to directly import those paths.
+
+Now, if your system has E: Drive then the 'deafult drive' is chosen as E: Drive, or else D: Drive is chosen.
+A 'ResCom Setup' file will be created in your default drive. Do not move or delete this file.
+If you do so by mistake or if you want to change the paths, just re-submit your paths like in your first time.
+In case you do not have E: and D: drives, you can use any other drive, but you will not be able to save those paths,
+they must be entered everytime you use the software.
+
+Make sure the Path you enter is only the FOLDER path,
+Eg- D:\ResCom\Files\ - follow the exact same format. Do not add any file names in these paths.
+If you use C: Drive you must make sure to use folders which third party application have permission to access.
+
+You can also use the 'Default Paths' for which just create a folder called 'ResCom' in your 'default drive' and
+then use that option for Path Setup. 
+
+Step 3: Run
+
+Update Result File
+You can update an old Result file with new file of students with changed grades after Make-up Exams, Fast Track, etc.
+Enter Old File and New File names without extension, then enter subject codes of those subjects whose grades have
+to be updated and a merged updated file will be created in your Output Path.
+
+Result Analysis
+There are different ways to run Result Analysis - Sectionwise, Branchwise, Subjectwise.
+You will be asked to enter the following details:
+
+Details - here you input whatever details you want displayed with your output, for your understanding. For example,
+	  when you want to run Section-wise Result Analysis, you can enter 'Teacher Name - Section - SubCode'
+	  when you want to run Branch-wise Result Analysis, you can enter 'Branch HOD Name - Branch Name'.
+          when you want to run Subject-wise Result Analysis, you can enter 'Section/Branches names'.
+Basically, anything that you want displayed in your output.
+
+Class File - When you want to run Section-wise Result Analysis, you enter Student list class file name without extension.
+	     When you want to run Branch-wise Result Analysis, you just put a dash '-'.
+
+Branch File - When you want to run Section-wise Result Analysis, Enter the branch file names of the branches in
+	      that class separated by commas.
+	      When you want to run Branch-wise Result Analysis, you can enter just the specific branch result file name
+	      without extension. Make sure you only enter one branch at a time. No comma separated list is accepted here.
+
+Output File - This will be the name of the 3 Output files that will be generated at your output path.
+	      Enter this name without any extension.
+
+Subject Code - Enter all the Subject codes which have to be considered for the Result Analysis separated by commas.
+	       A tip to do this is just copy paste all Sub Code headings from the PDF converted .txt file to the input
+	       box, then put commas in between.
+
+After completion, you can run this again for a new Section/Subject/for Make Up Results Analysis/etc and all results
+will be continously added to the table and output file.
+
+
+Troubleshooting
+
+If the Software doesn't generate output, check if:
+- Correct File Paths have been entered (of only the folder).
+- Correct File Names have been entered.
+- Correct Syntax has been followed as explained above.
+- Files have details in the correct syntax as mentioned above.
+
+For any other queries contact me at - mehulpoddar@gmail.com
+
+Thank You :)
